@@ -2,7 +2,7 @@
 -----
 ***Autora***: Amanda
 ------
-***LINK DA PAGINA***: 
+***LINK DA PAGINA***: https://amandams85.github.io/Atv3outubro/cadastro.html
 -----
 Olá! Este é o repositório da Atividade 3 do projeto Portal da Literatura.
 Após estruturarmos (HTML - Atividade 1) e estilizarmos (CSS - Atividade 2) o portal, esta atividade introduz o elemento que faltava: a interatividade e a dinâmica com JavaScript.
